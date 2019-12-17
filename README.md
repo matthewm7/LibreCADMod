@@ -58,3 +58,4 @@ There is a [resources repository](https://github.com/LibreCAD/Resources) for peo
 contribute to the project by supplying icons, stylesheets, documentation, templates...
 
 Associated downloads: <https://sourceforge.net/projects/librecad/files/Resources/>
+# LibreCADMod
